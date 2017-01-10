@@ -11,8 +11,10 @@ You can use either uppercase or lowercase for calling opcodes and commands. The 
 
 Comments are treated as single-line comments, can be placed either at the start or end of a line:
 
-    # this is a comment
-    ipush 24 # this is also a comment
+```python
+# this is a comment
+ipush 24 # this is also a comment
+```
 
 ## Numerals
 
