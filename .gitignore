@@ -1,0 +1,5 @@
+# .gitignore
+
+*.pyc
+*.obj
+*.bin

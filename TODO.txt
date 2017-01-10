@@ -1,0 +1,6 @@
+[TODO]
++ comparator support for floating-point values
+
+[DONE]
++ negative short, int, and float support
++ "end method" opcode support (sortof... alt. method used means no need for specific "end method" opcode)
