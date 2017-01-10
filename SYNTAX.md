@@ -9,6 +9,11 @@ You can use either uppercase or lowercase for calling opcodes and commands. The 
     iprompt
     IPROMPT
 
+Comments are treated as single-line comments, can be placed either at the start or end of a line:
+
+    # this is a comment
+    ipush 24 # this is also a comment
+
 ## Numerals
 
 Some opcodes require one or more parameters, all of which are some sort of numeral value. Depending on the type value of the parameter, we can specify them in different ways.

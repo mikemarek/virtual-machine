@@ -34,7 +34,11 @@ And finally, run your compiled bytecode with the virtual machine:
 
 A full list of opcodes and how they are used can be found in the following file located in the repository:
 
-[OPCODES.md](../OPCODES.md "Instruction Set")
+[OPCODES.md](/OPCODES.md "Instruction Set")
+
+A guide to the language syntax and writing actual code can be found here:
+
+[SYNTAX.md](/SYNTAX.md "Syntax Guide")
 
 ## Sample Programs
 
