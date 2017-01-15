@@ -42,7 +42,7 @@ A guide to the language syntax and writing actual code can be found here:
 
 ## Sample Programs
 
-Many more sample programs can be found in the repository directory [programs](../programs/ "Sample Programs").
+Many more sample programs can be found in the repository directory [programs](/programs/ "Sample Programs").
 
 #### Hello World
 
